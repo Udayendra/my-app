@@ -135,3 +135,4 @@ index.php           # Entry point
 ## Contact
 
 For any questions or contributions, feel free to open an issue or connect with me!
+
