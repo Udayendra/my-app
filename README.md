@@ -32,7 +32,7 @@ This is a simple PHP REST API built without a full framework. It uses **JWT auth
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/recipe-api.git
+git clone https://github.com/Udayendra/recipe-api.git
 cd recipe-api
 ```
 
