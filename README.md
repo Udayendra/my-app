@@ -53,7 +53,7 @@ composer install
 ```
 
 ### 5. Run Database Migration (Manual)
-Import the `db.sql` dump in your MySQL container or create tables manually.
+Import the `init.sql` dump in your MySQL container or create tables manually.
 
 ---
 
